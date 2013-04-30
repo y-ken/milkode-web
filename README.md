@@ -7,6 +7,10 @@ It is a bundler template of Milkode web application for apache passenger.
 The [Milkode](http://milkode.ongaeshi.me/wiki/Main_Page) is a fulltext source code search engine to look up keywords from up to thousands of your codes instantly.  
 This package helps you to use Apache Passenger with Milkode.
 
+## Quick Start (Japanese)
+日本語記事はこちらです。  
+http://y-ken.hatenablog.com/entry/how-to-install-milkode-with-passenger
+
 ## Quick Start
 
 It's a quick start guide to install milkode under the `/var/www/html/`.  
