@@ -1,10 +1,10 @@
 # milkode-web
 
-Milkode web application bundler template for apache passenger
+It is a bundler template of Milkode web application for apache passenger.
 
 ## What's this?
 
-The [Milkode](http://milkode.ongaeshi.me/wiki/Main_Page) is a fulltext source code search engine to look up keywords from up to thousands of your codes instantly.
+The [Milkode](http://milkode.ongaeshi.me/wiki/Main_Page) is a fulltext source code search engine to look up keywords from up to thousands of your codes instantly.  
 This package helps you to use Apache Passenger with Milkode.
 
 ## Quick Start
