@@ -94,3 +94,9 @@ open url like `http://milkode.example.com/` which you specified.
 It works fine if you saw milk bottle icon.
 
 Thant's all. finished.
+
+## Copyright
+Copyright © 2013- @yoshi_ken
+
+## License
+Apache License, Version 2.0
