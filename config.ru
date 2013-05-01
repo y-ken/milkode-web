@@ -1,3 +1,6 @@
 require './app'
-run Sinatra::Application
 
+set :logging, false
+set :environment, :production
+
+run Sinatra::Application
