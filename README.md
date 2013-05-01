@@ -97,6 +97,8 @@ $ sudo /etc/init.d/httpd restart
 open url like `http://milkode.example.com/` which you specified.  
 It works fine if you saw milk bottle icon.
 
+![MilkodeWebApplication](http://cdn-ak.f.st-hatena.com/images/fotolife/y/yoshi-ken/20130501/20130501132045.png)
+
 Thant's all. finished.
 
 ## Copyright
