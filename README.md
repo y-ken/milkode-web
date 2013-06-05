@@ -9,6 +9,7 @@ This package helps you to use Apache Passenger with Milkode.
 
 ## Quick Start (Japanese)
 日本語記事はこちらです。  
+[groonga(rroonga)を利用したソースコード全文検索エンジン"Milkode"をApache Passengerで軽快に動かす方法](http://y-ken.hatenablog.com/entry/how-to-install-milkode-with-passenger)  
 http://y-ken.hatenablog.com/entry/how-to-install-milkode-with-passenger
 
 ## Quick Start
